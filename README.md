@@ -12,7 +12,7 @@ Since this is an experimental pipeline it is best run through the python noteboo
 
 ## To Run from python script
 run
-python3 ContentAwareGNNPipeline/main.py
+python3 ContentAwareGNNPipeline/main.py from the System Project Directory.
 
 ## The Processes Performed:
 1. Generates topics from each text sample using Linear Discriminant Analysis (LDA)
